@@ -1,0 +1,13 @@
+Status	./bams/SNF2_1_Aligned.sortedByCoord.out.bam	./bams/SNF2_2_Aligned.sortedByCoord.out.bam	./bams/SNF2_3_Aligned.sortedByCoord.out.bam	./bams/WT_1_Aligned.sortedByCoord.out.bam	./bams/WT_2_Aligned.sortedByCoord.out.bam	./bams/WT_3_Aligned.sortedByCoord.out.bam
+Assigned	9448402	7964274	8050905	5352419	7139497	5842690
+Unassigned_Unmapped	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_Nonjunction	0	0	0	0	0	0
+Unassigned_NoFeatures	747388	458993	493370	232966	518151	449802
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	656388	589067	592931	427879	546903	445486
